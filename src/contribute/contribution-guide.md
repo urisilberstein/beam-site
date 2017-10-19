@@ -123,6 +123,7 @@ To configure annotation processing in IntelliJ:
 IntelliJ supports checkstyle within the IDE using the Checkstyle-IDEA plugin.
 
 1. Install the "Checkstyle-IDEA" plugin from the IntelliJ plugin repository.
+use the following link to 
 1. Configure the plugin by going to Settings -> Other Settings -> Checkstyle.
 1. Set the "Scan Scope" to "Only Java sources (including tests)".
 1. In the "Configuration File" pane, add a new configuration using the plus icon:
